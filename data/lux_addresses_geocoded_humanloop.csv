@@ -1,0 +1,33 @@
+original_address;google_hint_address;latitude;longitude;osm_link;source;google_search_link
+avenue de l'Arsenal (grand rue), 17, Luxembourg;Arsenalavenue 17 avenue de l'Arsenal, Stad - Luxemburg;49.6112;6.1239;https://www.openstreetmap.org/?mlat=49.6112&mlon=6.1239#map=18/49.6112/6.1239;openai;https://www.google.com/search?q=avenue%20de%20l%27Arsenal%20%28grand%20rue%29%2C%2017%2C%20Luxembourg
+avenue de l'Arsenal (Grand'Rue), 10, Luxembourg;Arsenalavenue 10 avenue de l'Arsenal, Stad - Luxemburg;49.6006;6.1305;https://www.openstreetmap.org/?mlat=49.6006&mlon=6.1305#map=18/49.6006/6.1305;openai;https://www.google.com/search?q=avenue%20de%20l%27Arsenal%20%28Grand%27Rue%29%2C%2010%2C%20Luxembourg
+avenue de la Liberté, 16, Luxembourg;;49,6058845;6,1287571;https://www.openstreetmap.org/?mlat=49.6058845&mlon=6.1287571#map=18/49.6058845/6.1287571;osm;
+avenue de la liberté, 26, Luxembourg;;49,6044423;6,1298776;https://www.openstreetmap.org/?mlat=49.6044423&mlon=6.1298776#map=18/49.6044423/6.1298776;osm;
+avenue de la Liberté, 9, Luxembourg;;49,6067334;6,1287018;https://www.openstreetmap.org/?mlat=49.6067334&mlon=6.1287018#map=18/49.6067334/6.1287018;osm;
+avenue Gaston Diderich, 2, Luxembourg;;49,6101368;6,1186141;https://www.openstreetmap.org/?mlat=49.6101368&mlon=6.1186141#map=18/49.6101368/6.1186141;osm;
+avenue Monterey, 25, Luxembourg;;49,6104617;6,1248505;https://www.openstreetmap.org/?mlat=49.6104617&mlon=6.1248505#map=18/49.6104617/6.1248505;osm;
+boulevard de la Pétrusse, 69, Luxembourg;;49,6067541;6,1260863;https://www.openstreetmap.org/?mlat=49.6067541&mlon=6.1260863#map=18/49.6067541/6.1260863;osm;
+boulevard du Prince, 19, Luxembourg;19, Boulevard Prince Henri, L-1724 Luxembourg;49.603534;6.134898;https://www.openstreetmap.org/?mlat=49.603534&mlon=6.134898#map=18/49.603534/6.134898;openai;https://www.google.com/search?q=boulevard%20du%20Prince%2C%2019%2C%20Luxembourg
+boulevard Joseph II, 28, Luxembourg;;49,613364;6,1214477;https://www.openstreetmap.org/?mlat=49.613364&mlon=6.1214477#map=18/49.613364/6.1214477;osm;
+boulevard Joseph II, 38, Luxembourg;;49,6139977;6,1218343;https://www.openstreetmap.org/?mlat=49.6139977&mlon=6.1218343#map=18/49.6139977/6.1218343;osm;
+boulevard Prince Henri, 21, Luxembourg;;49,4906222;5,9766912;https://www.openstreetmap.org/?mlat=49.4906222&mlon=5.9766912#map=18/49.4906222/5.9766912;osm;
+boulevard Royal 45, Luxembourg;;49,6135694;6,1268755;https://www.openstreetmap.org/?mlat=49.6135694&mlon=6.1268755#map=18/49.6135694/6.1268755;osm;
+boulevard Royal, 21, Luxembourg;;49,6134663;6,1273751;https://www.openstreetmap.org/?mlat=49.6134663&mlon=6.1273751#map=18/49.6134663/6.1273751;osm;
+boulevard Royal, 28, Luxembourg;;49,6135694;6,1268755;https://www.openstreetmap.org/?mlat=49.6135694&mlon=6.1268755#map=18/49.6135694/6.1268755;osm;
+boulevard Royal, 2bis, Luxembourg;;49,6135694;6,1268755;https://www.openstreetmap.org/?mlat=49.6135694&mlon=6.1268755#map=18/49.6135694/6.1268755;osm;
+boulevard Royal, 31, Luxembourg;;49,6135694;6,1268755;https://www.openstreetmap.org/?mlat=49.6135694&mlon=6.1268755#map=18/49.6135694/6.1268755;osm;
+boulevard Royal, 33, Luxembourg;;49,6135694;6,1268755;https://www.openstreetmap.org/?mlat=49.6135694&mlon=6.1268755#map=18/49.6135694/6.1268755;osm;
+boulevard royal, 45, Luxembourg;;49,6135694;6,1268755;https://www.openstreetmap.org/?mlat=49.6135694&mlon=6.1268755#map=18/49.6135694/6.1268755;osm;
+Grand rue, 76, Luxembourg;;49,6124295;6,127513;https://www.openstreetmap.org/?mlat=49.6124295&mlon=6.127513#map=18/49.6124295/6.127513;osm;
+grand rue, 86, Luxembourg;;49,612329;6,1270109;https://www.openstreetmap.org/?mlat=49.612329&mlon=6.1270109#map=18/49.612329/6.1270109;osm;
+Pierret, 28, Luxembourg;;49,6204201;6,1170435;https://www.openstreetmap.org/?mlat=49.6204201&mlon=6.1170435#map=18/49.6204201/6.1170435;osm;
+place de la gare, 80, Luxembourg;;49,5989936;6,1326629;https://www.openstreetmap.org/?mlat=49.5989936&mlon=6.1326629#map=18/49.5989936/6.1326629;osm;
+route d'Itzig, 160, Luxembourg;;49,5815241;6,1482978;https://www.openstreetmap.org/?mlat=49.5815241&mlon=6.1482978#map=18/49.5815241/6.1482978;osm;
+rue Aldringer, 14, Luxembourg;;49,6126091;6,1267106;https://www.openstreetmap.org/?mlat=49.6126091&mlon=6.1267106#map=18/49.6126091/6.1267106;osm;
+rue Baudoin, 9, Luxembourg;9 Rue Baudouin, luxembourg;49,5978381;6,1207514;https://www.openstreetmap.org/?mlat=49.5978381&mlon=6.1207514#map=18/49.5978381/6.1207514;osm_google_hint;https://www.google.com/search?q=rue%20Baudoin%2C%209%2C%20Luxembourg
+rue de Hollerich, 144, Luxembourg;;49,5986956;6,1255988;https://www.openstreetmap.org/?mlat=49.5986956&mlon=6.1255988#map=18/49.5986956/6.1255988;osm;
+rue de Liberté, 22, Luxembourg;;49,5549264;5,8752473;https://www.openstreetmap.org/?mlat=49.5549264&mlon=5.8752473#map=18/49.5549264/5.8752473;osm;
+rue Maréchal Foch, 15, Luxembourg;;49,6084111;6,1104601;https://www.openstreetmap.org/?mlat=49.6084111&mlon=6.1104601#map=18/49.6084111/6.1104601;osm;
+rue Philippe II, 11, Luxembourg;;49,6117411;6,1280809;https://www.openstreetmap.org/?mlat=49.6117411&mlon=6.1280809#map=18/49.6117411/6.1280809;osm;
+rue Philippe II, 5, Luxembourg;;49,6117411;6,1280809;https://www.openstreetmap.org/?mlat=49.6117411&mlon=6.1280809#map=18/49.6117411/6.1280809;osm;
+route de Beggen, 269, Luxembourg;269 Rue de Beggen;49,6475771;6,127658;https://www.openstreetmap.org/?mlat=49.6475771&mlon=6.127658#map=18/49.6475771/6.127658;osm_google_hint;https://www.google.com/search?q=route%20de%20Beggen%2C%20269%2C%20Luxembourg
