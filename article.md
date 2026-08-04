@@ -1804,10 +1804,11 @@ By positioning the Luxembourg domiciliation market within a global geography, ce
 By investigating the intersection of these two scales, we can connect two mailboxes: one located at 16 Rue des Capucins, in the very centre of Luxembourg City, the capital of a small state in the European Union, and P.O. Box 71 at 2 Centre Commercial Square in Alofi, the capital of a small island country in the South Pacific Ocean. Despite the one-sided perspective imposed by the choice to use solely Luxembourgish sources, this focus highlights the importance of a localised infrastructure that has been largely overlooked by both Luxembourgish and international historiography: without these numerous “hidden helpers”, there would be no offshore financial centres <cite id="wdp3q"><a href="#zotero%7C6915743%2F3PEIJWRJ">(Derix, 2015)</a></cite>;<cite id="bq0kl"><a href="#zotero%7C6915743%2F6BHCQ38V">(N. Majerus, 1949)</a></cite>.
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hidden"]-->
 # Bibliography
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hidden"]-->
 <!-- BIBLIOGRAPHY START -->
 <div class="csl-bib-body">
   <div class="csl-entry"><i id="zotero|6915743/ENUHGCJB"></i>Aleman Healy, J. (2014). <i>La Honestidad No Tiene Precio</i>.</div>
@@ -1874,3 +1875,4 @@ By investigating the intersection of these two scales, we can connect two mailbo
   <div class="csl-entry"><i id="zotero|6915743/P5W589ED"></i>Weitzman, H. (2022). <i>What’s the Matter with Delaware?: How the First State Has Favored the Rich, Powerful, and Criminal—and How It Costs Us All</i>. Princeton University Press. <a href="https://doi.org/10.1515/9780691185774">https://doi.org/10.1515/9780691185774</a></div>
 </div>
 <!-- BIBLIOGRAPHY END -->
+<!-- #endregion -->
