@@ -1757,9 +1757,7 @@ The second key players are fiduciary companies. Some larger Luxembourgish compan
 Niue is a small country in the South Pacific Ocean, with a land area of 261.46km² and a population of around 1,600 inhabitants. It is closely associated with New Zealand, which handles several state functions on its behalf. Recently, Niue has made headlines as global warming directly threatens its existence, with rising sea levels jeopardising the island’s physical viability. The tourist office presents the island as “a place where it’s normal for complete strangers to wave at each other, all the time. It’s a place where nature hasn’t been broken… and things are ‘the way they used to be’”(‘The Official Website Of Niue Tourism’, n.d.). For a short time, this island appeared in the Luxembourg company register, and for two years it was one of the six main “treasure islands” for Luxembourgish offshore companies (Table 3).
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["table-niue-*"] -->
-Table 3 - Percentage of the treasure island corpus of companies with a reference to Niue.
-
+<!-- #region jdh={"module": "object", "object": {"source": ["Table 3 - Percentage of the treasure island corpus of companies with a reference to Niue"]}} editable=true slideshow={"slide_type": ""} tags=["table-niue-*"] -->
 | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 |
 |------|------|------|------|------|------|------|------|------|------|------|------|
 | 0%   | 0.59%| 0.82%| 3.38%| 4.20%| 4.78%| 4.79%| 2.35%| 1.46%| 1.49%| 1.31%| 0.68% |
