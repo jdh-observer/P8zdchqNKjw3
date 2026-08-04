@@ -1658,9 +1658,7 @@ To analyse the second data series (1960-2016), we took a different approach from
 The data from Table 1 tells two stories. On one hand, it highlights the importance of certain continuities, emphasising the significance of path dependencies established as early as the interwar period. Even though Switzerland's proportion fluctuates significantly over time, it remains the most important country throughout the 50 years covered by this corpus. Swiss banks began investing more heavily in Luxembourg from the 1970s onwards, with the arrival of Union de Banques Suisses (UBS) in 1973 and Société de Banque Suisse (SBS) in 1974. Several Luxembourg banks opened branches in Switzerland: Compagnie Luxembourgeoise de Banque (a subsidiary of Dresdner Bank) since 1972, Kredietbank Luxembourg by acquiring Kredietbank Suisse, initially a subsidiary of KB Belgium established in 1970, since 1980 (with occasional branches in Basel and Lugano) (‘Expansion im Auslandsgeschäft’ 1980), Banque Générale du Luxembourg operated in Zurich from 1982 to 2016, and BIL began in Lausanne (in 1985) and today operates in Geneva, Zurich and Lugano. The Luxembourg market for domiciliation was closely monitored by the Swiss Embassy in Luxembourg. This symbiosis between the two financial centres has existed since the interwar period. Given the wide variety of tax laws in Switzerland, it seemed interesting to present a more detailed view of the geographical links these companies have with different cantons.
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["table-swiss-*"] -->
-Table 2 - Five most represented Swiss cantons among the Swiss corpus (1961-2016)
-
+<!-- #region jdh={"module": "object", "object": {"source": ["Five most represented Swiss cantons among the Swiss corpus (1961-2016)"]}} editable=true slideshow={"slide_type": ""} tags=["table-swiss-*"] -->
 | Geneva   | Zurich   | Zug     | Bern    | Ticino  |
 |----------|----------|---------|---------|---------|
 | 34.81%   | 33.08%   | 12.49%  | 3.91%   | 2.15%   |
