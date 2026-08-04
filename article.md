@@ -1643,7 +1643,7 @@ Shell companies serve their purpose because they are embedded in larger global t
 To analyse the second data series (1960-2016), we took a different approach from the one used for the first series. To identify the geographies of global tax chains in which Luxembourg is involved, we based our analysis on locations defined as tax havens by James Hines. In 2010, he published a list of 52 “treasure islands” <cite id="dyaax"><a href="#zotero%7C6915743%2FFM6V699S">(Hines Jr, 2010)</a></cite>. We cross-referenced this list (adding Curaçao) with companies linked to these countries to determine Luxembourg’s evolving position in the global geography of domiciliation.
 <!-- #endregion -->
 
-<!-- #region jdh={"module": "object", "object": {"source": ["Five most important represented countries in the \u201ctax haven corpus"]}} editable=true slideshow={"slide_type": ""} tags=["table-important-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Five most important represented countries in the \u201ctax haven corpus"]}} slideshow={"slide_type": ""} tags=["table-important-*"] -->
 | 1961–69                       | 1970–79                         | 1980–89                      | 1990–99                          | 2000–09                            | 2010–16                        |
 |------------------------------|----------------------------------|------------------------------|----------------------------------|------------------------------------|--------------------------------|
 | Switzerland - 61.15%         | Switzerland - 64.50%            | Switzerland - 47.71%         | Switzerland - 27.82%             | Switzerland - 19.80%               | Switzerland - 21.66%           |
@@ -1658,7 +1658,7 @@ To analyse the second data series (1960-2016), we took a different approach from
 The data from Table 1 tells two stories. On one hand, it highlights the importance of certain continuities, emphasising the significance of path dependencies established as early as the interwar period. Even though Switzerland's proportion fluctuates significantly over time, it remains the most important country throughout the 50 years covered by this corpus. Swiss banks began investing more heavily in Luxembourg from the 1970s onwards, with the arrival of Union de Banques Suisses (UBS) in 1973 and Société de Banque Suisse (SBS) in 1974. Several Luxembourg banks opened branches in Switzerland: Compagnie Luxembourgeoise de Banque (a subsidiary of Dresdner Bank) since 1972, Kredietbank Luxembourg by acquiring Kredietbank Suisse, initially a subsidiary of KB Belgium established in 1970, since 1980 (with occasional branches in Basel and Lugano) (‘Expansion im Auslandsgeschäft’ 1980), Banque Générale du Luxembourg operated in Zurich from 1982 to 2016, and BIL began in Lausanne (in 1985) and today operates in Geneva, Zurich and Lugano. The Luxembourg market for domiciliation was closely monitored by the Swiss Embassy in Luxembourg. This symbiosis between the two financial centres has existed since the interwar period. Given the wide variety of tax laws in Switzerland, it seemed interesting to present a more detailed view of the geographical links these companies have with different cantons.
 <!-- #endregion -->
 
-<!-- #region jdh={"module": "object", "object": {"source": ["Five most represented Swiss cantons among the Swiss corpus (1961-2016)"]}} editable=true slideshow={"slide_type": ""} tags=["table-swiss-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Five most represented Swiss cantons among the Swiss corpus (1961-2016)"]}} slideshow={"slide_type": ""} tags=["table-swiss-*"] -->
 | Geneva   | Zurich   | Zug     | Bern    | Ticino  |
 |----------|----------|---------|---------|---------|
 | 34.81%   | 33.08%   | 12.49%  | 3.91%   | 2.15%   |
@@ -1757,7 +1757,7 @@ The second key players are fiduciary companies. Some larger Luxembourgish compan
 Niue is a small country in the South Pacific Ocean, with a land area of 261.46km² and a population of around 1,600 inhabitants. It is closely associated with New Zealand, which handles several state functions on its behalf. Recently, Niue has made headlines as global warming directly threatens its existence, with rising sea levels jeopardising the island’s physical viability. The tourist office presents the island as “a place where it’s normal for complete strangers to wave at each other, all the time. It’s a place where nature hasn’t been broken… and things are ‘the way they used to be’”(‘The Official Website Of Niue Tourism’, n.d.). For a short time, this island appeared in the Luxembourg company register, and for two years it was one of the six main “treasure islands” for Luxembourgish offshore companies (Table 3).
 <!-- #endregion -->
 
-<!-- #region jdh={"module": "object", "object": {"source": ["Percentage of the treasure island corpus of companies with a reference to Niue"]}} editable=true slideshow={"slide_type": ""} tags=["table-niue-*"] -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Percentage of the treasure island corpus of companies with a reference to Niue"]}} slideshow={"slide_type": ""} tags=["table-niue-*"] -->
 | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 |
 |------|------|------|------|------|------|------|------|------|------|------|------|
 | 0%   | 0.59%| 0.82%| 3.38%| 4.20%| 4.78%| 4.79%| 2.35%| 1.46%| 1.49%| 1.31%| 0.68% |
@@ -1804,7 +1804,7 @@ By positioning the Luxembourg domiciliation market within a global geography, ce
 By investigating the intersection of these two scales, we can connect two mailboxes: one located at 16 Rue des Capucins, in the very centre of Luxembourg City, the capital of a small state in the European Union, and P.O. Box 71 at 2 Centre Commercial Square in Alofi, the capital of a small island country in the South Pacific Ocean. Despite the one-sided perspective imposed by the choice to use solely Luxembourgish sources, this focus highlights the importance of a localised infrastructure that has been largely overlooked by both Luxembourgish and international historiography: without these numerous “hidden helpers”, there would be no offshore financial centres <cite id="wdp3q"><a href="#zotero%7C6915743%2F3PEIJWRJ">(Derix, 2015)</a></cite>;<cite id="bq0kl"><a href="#zotero%7C6915743%2F6BHCQ38V">(N. Majerus, 1949)</a></cite>.
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hidden"] -->
 # Bibliography
 <!-- #endregion -->
 
