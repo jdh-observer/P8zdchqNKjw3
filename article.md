@@ -152,7 +152,7 @@ metadata={
         "object": {
             "type":"image",
             "source": [
-                "Fig. 2. Schematic drawing of a standard ETL (extract, transform, load) workflow used to convert unstructured data into structured data and make it available in a dedicated database. In this research, “extract” involved reading scanned documents and capturing business descriptions for each company; “transform” involved applying named entity recognition (NER); and “load” involved saving the structured NER output and business descriptions into a database."
+                "Schematic drawing of a standard ETL (extract, transform, load) workflow used to convert unstructured data into structured data and make it available in a dedicated database. In this research, “extract” involved reading scanned documents and capturing business descriptions for each company; “transform” involved applying named entity recognition (NER); and “load” involved saving the structured NER output and business descriptions into a database."
             ]
         }
     }
@@ -1570,7 +1570,7 @@ metadata={
         "object": {
             "type":"image",
             "source": [
-                "Fig. 3. Time-series heat map illustrating the spatial and temporal evolution of financial addresses in Luxembourg City from 1929 to 2016. The animation shows how the intensity and geographic focus of development shifted over eight distinct time periods, with colors ranging from blue (low intensity) to red (high intensity)."
+                "Time-series heat map illustrating the spatial and temporal evolution of financial addresses in Luxembourg City from 1929 to 2016. The animation shows how the intensity and geographic focus of development shifted over eight distinct time periods, with colors ranging from blue (low intensity) to red (high intensity)."
             ]
         }
     }
@@ -1615,7 +1615,7 @@ metadata={
         "object": {
             "type":"image",
             "source": [
-                "Fig. 4. Evolution of the number of employees in the financial center of Luxembourg."
+                "Evolution of the number of employees in the financial center of Luxembourg."
             ]
         }
     }
@@ -1697,7 +1697,7 @@ metadata={
         "object": {
             "type":"image",
             "source": [
-                "Fig. 5. Percentage of companies with a reference to Panama in the treasure island corpus."
+                "Percentage of companies with a reference to Panama in the treasure island corpus."
             ]
         }
     }
@@ -1717,7 +1717,7 @@ metadata={
         "object": {
             "type":"image",
             "source": [
-                "[Figure] Fig. 6. Number of holding companies created in Luxembourg between 1960 and 1988."
+                "Number of holding companies created in Luxembourg between 1960 and 1988."
             ]
         }
     }
