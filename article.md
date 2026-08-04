@@ -104,7 +104,7 @@ metadata={
         "object": {
             "type":"image",
             "source": [
-                "Fig. 1. Distorted and skewed scanned pages, tilting either left or right."
+                "Distorted and skewed scanned pages, tilting either left or right."
             ]
         }
     }
