@@ -1643,9 +1643,7 @@ Shell companies serve their purpose because they are embedded in larger global t
 To analyse the second data series (1960-2016), we took a different approach from the one used for the first series. To identify the geographies of global tax chains in which Luxembourg is involved, we based our analysis on locations defined as tax havens by James Hines. In 2010, he published a list of 52 “treasure islands” <cite id="dyaax"><a href="#zotero%7C6915743%2FFM6V699S">(Hines Jr, 2010)</a></cite>. We cross-referenced this list (adding Curaçao) with companies linked to these countries to determine Luxembourg’s evolving position in the global geography of domiciliation.
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["table-important-*"] -->
-Table 1 - Five most important represented countries in the “tax haven corpus.”
-
+<!-- #region jdh={"module": "object", "object": {"source": ["Five most important represented countries in the \u201ctax haven corpus"]}} editable=true slideshow={"slide_type": ""} tags=["table-important-*"] -->
 | 1961–69                       | 1970–79                         | 1980–89                      | 1990–99                          | 2000–09                            | 2010–16                        |
 |------------------------------|----------------------------------|------------------------------|----------------------------------|------------------------------------|--------------------------------|
 | Switzerland - 61.15%         | Switzerland - 64.50%            | Switzerland - 47.71%         | Switzerland - 27.82%             | Switzerland - 19.80%               | Switzerland - 21.66%           |
